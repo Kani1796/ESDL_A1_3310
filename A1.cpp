@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
-cout<<"hello World!";
+cout<<"Hello World!"<<endl;
+cout<<"Editing"<<endl;
 return 0;
 }
